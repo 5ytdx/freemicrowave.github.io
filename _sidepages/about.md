@@ -11,4 +11,6 @@ I use it/its pronouns.
 
 For business inquiries, contact me at <code>freemicrowave (at) outlook (dot) com</code>
 
+Image by [@BLOODSADx](https://twitter.com/BLOODSADx) @ [bloodsad](https://bloodsad.com).
+
 <a style="font-size: .6em; color: unset;" href="https://galaxybra.in">Website by technoabyss.</a>
