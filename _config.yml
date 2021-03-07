@@ -1,0 +1,38 @@
+################################
+
+# Title: your websites name, up on the tab
+title: Nonsense Channel
+
+# Bandcamp embed: this piece of code determines what the bandcamp embed in the front page shows.
+# To set it to something new, click on the Share / Embed button on bandcamp, click on any of the sizes,
+# and then get the embed code. It should look something like this:
+# <iframe style="border: 0; width: 100%; height: 120px;" src="https://bandcamp.com/EmbeddedPlayer/track=1634320371/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/artwork=small/transparent=true/" seamless><a href="https://freemicrowave.bandcamp.com/track/zircon-cave">Zircon Cave by y5</a></iframe>
+#
+# You're looking for the part that looks like "album=01234567" or "track=012344567". copy and paste that bit below.
+bandcamp_embed: album=2948749047
+
+# There's other settings in the _data folder.
+
+################################
+
+url: "https://freemicrowave.net"
+baseurl: ""
+
+safe: true
+markdown: kramdown
+
+collections:
+  sidepages:
+    output: true
+    permalink: /:slug
+
+defaults:
+  - scope:
+      path: _sidepages
+    values:
+      layout: sidepage
+      defaults:
+  - scope:
+      path: assets/img/fakeads
+    values:
+      fakead: true
