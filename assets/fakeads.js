@@ -1,7 +1,7 @@
 ---
 
 ---
-// technoabyss @ galaxybra.in
+// technoabyss @ chitin.link
 
 const wrap = document.getElementById("wrap");
 

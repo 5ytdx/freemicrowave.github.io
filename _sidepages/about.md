@@ -13,4 +13,4 @@ For business inquiries, contact me at <code>freemicrowave (at) outlook (dot) com
 
 Image by [@BLOODSADx](https://twitter.com/BLOODSADx) @ [bloodsad](https://bloodsad.com).
 
-<a style="font-size: .6em; color: unset;" href="https://galaxybra.in">Website by technoabyss.</a>
+<a style="font-size: .6em; color: unset;" href="https://chitin.link">Website by technoabyss.</a>

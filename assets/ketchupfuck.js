@@ -1,4 +1,4 @@
-// technoabyss @ galaxybra.in
+// technoabyss @ chitin.link
 
 const
   snd = new Audio("/assets/skull_trumpet.mp3");
