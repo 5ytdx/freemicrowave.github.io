@@ -1,5 +1,12 @@
 // technoabyss @ chitin.link
 
+let ketchup_score = Number(window.localStorage.getItem("ketchup_score") || 0);
+
+let update_ketchup_score = () => {
+  window.localStorage.setItem("ketchup_score", String(ketchup_score));
+};
+update_ketchup_score();
+
 const
   snd = new Audio("/assets/skull_trumpet.mp3");
 snd.volume = 0.05;
@@ -12,11 +19,13 @@ window.addEventListener("load", () => {
   let ket_ctr = document.createElement("div");
   ket_cont.classList.add("ketchupfuck");
   ket_img.src = "/assets/img/ketchup_fuck.png";
-  ket_ctr.innerText = 0;
+  ket_ctr.innerText = ketchup_score;
   ket_cont.appendChild(ket_img);
   ket_cont.appendChild(ket_ctr);
   ket_cont.addEventListener("click", async () => {
-    ket_ctr.innerText = Number( ket_ctr.innerText ) + 1;
+    ketchup_score += 1;
+    update_ketchup_score();
+    ket_ctr.innerText = ketchup_score;
     if (snd_canplay) {
       snd.pause();
       snd.currentTime = 0;
