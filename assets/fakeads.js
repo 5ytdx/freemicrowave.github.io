@@ -1,7 +1,7 @@
 ---
 
 ---
-// technoabyss @ chitin.link
+// chitin.link
 
 const wrap = document.getElementById("wrap");
 

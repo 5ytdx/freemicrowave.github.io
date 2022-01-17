@@ -1,4 +1,4 @@
-// technoabyss @ chitin.link
+// chitin.link
 
 let ketchup_score = Number(window.localStorage.getItem("ketchup_score") || 0);
 
