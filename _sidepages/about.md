@@ -7,7 +7,7 @@ title: about/contact
 My name's y5 and I'm a musician/streamer/internet edgelord. You can find me at any of the links on this site, and outside your house.  
 I use it/its pronouns.
 
-[Twitter](https://twitter.com/freemicrowave) • [Tumblr](https://freemicrowav3.tumblr.com) • [Youtube](https://www.youtube.com/channel/UCTzrDeENnEOq2o0TbjVp2Zw)
+[Youtube](https://www.youtube.com/channel/UCTzrDeENnEOq2o0TbjVp2Zw)
 
 For business inquiries, contact me at <code>freemicrowave (at) outlook (dot) com</code>
 
