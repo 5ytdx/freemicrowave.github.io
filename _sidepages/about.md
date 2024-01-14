@@ -1,5 +1,5 @@
 ---
-title: about/contact
+title: about
 ---
 
 <img src="/assets/img/y5_by_Ivy.png" class="float_left" style="height: 200px">
