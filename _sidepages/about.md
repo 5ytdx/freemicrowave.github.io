@@ -9,7 +9,6 @@ I use it/its pronouns.
 
 [Youtube](https://www.youtube.com/channel/UCTzrDeENnEOq2o0TbjVp2Zw)
 
-For business inquiries, contact me at <code>freemicrowave (at) outlook (dot) com</code>
 
 Image by [@BLOODSADx](https://twitter.com/BLOODSADx) @ [bloodsad](https://bloodsad.com).
 
